@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aura Luxe Salon — Intelligent Queue Management System
 
 > **Live Deployment:** [https://aura-luxe-salon-management.netlify.app](https://aura-luxe-salon-management.netlify.app)  
@@ -123,3 +124,6 @@ In the Netlify dashboard under **Site Configuration > Environment Variables**, o
 - **One Active Spot Per Mobile Number:** Normalizes phone numbers (e.g., `+919876543210` -> `9876543210`) and strictly prevents duplicate active tickets across `waiting`, `called`, and `in_chair`.
 - **10-Minute No-Show Rule:** Reception can only mark a called client as a "No-show" after at least 10 minutes have elapsed from `calledAt`.
 - **Accurate Wait Estimation:** Computes waiting duration ahead divided by the number of active on-duty stylists, adding remaining service times of occupied chairs.
+=======
+# Aura-Luxe-Salon
+>>>>>>> 31ce55ee65e9eb64b6d59e2d5f2f8f804b33dae8
