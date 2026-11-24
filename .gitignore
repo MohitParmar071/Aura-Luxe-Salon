@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+server/salon.db
+server/salon.db-journal
+server/salon.db-wal
+server/salon.db-shm
+.netlify/
+.vercel/
+_reference_repo/
